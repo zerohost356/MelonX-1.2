@@ -1,0 +1,48 @@
+// https://discord.gg/Zg2XkS5hq9
+
+
+
+const fs = require('fs');
+const path = require('path');
+
+const subcommands = new Map();
+const subcommandsPath = path.join(__dirname, 'list');
+
+if (fs.existsSync(subcommandsPath)) {
+  const subcommandFiles = fs.readdirSync(subcommandsPath).filter(file => file.endsWith('.js'));
+  
+  for (const file of subcommandFiles) {
+    const filePath = path.join(subcommandsPath, file);
+    const subcommand = require(filePath);
+    if (subcommand.name && subcommand.execute) {
+      subcommands.set(subcommand.name, subcommand);
+    }
+  }
+}
+
+module.exports = {
+  name: 'list',
+  description: 'List various server information',
+  usage: 'list <subcommand>',
+  category: 'general',
+  
+  async execute(message, args) {
+    if (args.length === 0) {
+      return require('../../../lib/helpMenu').sendHelp('list', message);
+    }
+
+    const subcommandName = args[0].toLowerCase();
+    const subcommand = subcommands.get(subcommandName);
+
+    if (!subcommand) {
+      return require('../../../lib/helpMenu').sendHelp('list', message);
+    }
+
+    try {
+      await subcommand.execute(message, args.slice(1));
+    } catch (error) {
+      console.error(`Error executing list subcommand ${subcommandName}:`, error);
+      await message.reply('There was an error executing this list command!');
+    }
+  }
+};

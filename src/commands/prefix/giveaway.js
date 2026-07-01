@@ -1,0 +1,20 @@
+// https://discord.gg/Zg2XkS5hq9
+
+
+
+module.exports = {
+    name: 'giveaway',
+    description: 'Show giveaway commands',
+    aliases: ['gw'],
+    async execute(message, args) {
+        if (!args || !args.length) {
+            return require('../../lib/helpMenu').sendHelp('giveaway', message);
+        }
+        const hybrid = require('../hybrid/giveaway/giveaway');
+        if (hybrid && hybrid.execute) {
+            return hybrid.execute(message, args);
+        }
+        return require('../../lib/helpMenu').sendHelp('giveaway', message);
+    }
+};
+

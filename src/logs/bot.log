@@ -1,0 +1,510 @@
+[2026-06-20 11:51:00] [LOAD] Command modules
+[2026-06-20 11:51:01] [OK  ] Command modules loaded (27 commands)
+[2026-06-20 11:51:01] [WARN] Failed to load 1 command files
+[2026-06-20 11:51:01] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-20 11:51:01] [LOAD] Prefix command modules
+[2026-06-20 11:51:01] [OK  ] Prefix command modules loaded (181 commands)
+[2026-06-20 11:51:01] [WARN] Failed to load 1 prefix command files
+[2026-06-20 11:51:01] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-20 11:51:01] [LOAD] Hybrid command modules
+[2026-06-20 11:51:01] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-20 11:51:01] [LOAD] Event handlers
+[2026-06-20 11:51:01] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-20 11:51:01] [LOAD] Database connection
+[2026-06-20 11:51:01] [LOAD] Discord authentication
+[2026-06-20 11:51:04] [OK  ] Database initialized and all tables synced
+[2026-06-20 11:51:08] [OK  ] Authentication successful → [38;2;170;115;210mBlame#9186[0m
+[2026-06-20 11:51:08] [LOAD] Synchronizing slash commands
+[2026-06-20 11:51:08] [INFO] Slash commands unchanged — skipping registration
+[2026-06-20 11:51:08] [OK  ] Command synchronization complete (59 commands)
+[2026-06-20 11:51:08] [INFO] Connected to 45 guilds
+[2026-06-20 11:52:19] [LOAD] Command modules
+[2026-06-20 11:52:21] [OK  ] Command modules loaded (27 commands)
+[2026-06-20 11:52:21] [WARN] Failed to load 1 command files
+[2026-06-20 11:52:21] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-20 11:52:21] [LOAD] Prefix command modules
+[2026-06-20 11:52:21] [OK  ] Prefix command modules loaded (181 commands)
+[2026-06-20 11:52:21] [WARN] Failed to load 1 prefix command files
+[2026-06-20 11:52:21] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-20 11:52:21] [LOAD] Hybrid command modules
+[2026-06-20 11:52:21] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-20 11:52:21] [LOAD] Event handlers
+[2026-06-20 11:52:21] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-20 11:52:21] [LOAD] Database connection
+[2026-06-20 11:52:21] [LOAD] Discord authentication
+[2026-06-20 11:52:22] [OK  ] Database initialized and all tables synced
+[2026-06-20 11:52:26] [OK  ] Authentication successful → [38;2;170;115;210mBlame#9186[0m
+[2026-06-20 11:52:26] [LOAD] Synchronizing slash commands
+[2026-06-20 11:52:26] [INFO] Slash commands unchanged — skipping registration
+[2026-06-20 11:52:26] [OK  ] Command synchronization complete (59 commands)
+[2026-06-20 11:52:26] [INFO] Connected to 45 guilds
+[2026-06-20 11:59:02] [LOAD] Command modules
+[2026-06-20 11:59:02] [OK  ] Command modules loaded (27 commands)
+[2026-06-20 11:59:02] [WARN] Failed to load 1 command files
+[2026-06-20 11:59:02] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-20 11:59:02] [LOAD] Prefix command modules
+[2026-06-20 11:59:02] [OK  ] Prefix command modules loaded (181 commands)
+[2026-06-20 11:59:02] [WARN] Failed to load 1 prefix command files
+[2026-06-20 11:59:02] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-20 11:59:02] [LOAD] Hybrid command modules
+[2026-06-20 11:59:02] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-20 11:59:02] [LOAD] Event handlers
+[2026-06-20 11:59:02] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-20 11:59:02] [LOAD] Database connection
+[2026-06-20 11:59:02] [LOAD] Discord authentication
+[2026-06-20 11:59:03] [OK  ] Database initialized and all tables synced
+[2026-06-20 11:59:07] [OK  ] Authentication successful → [38;2;170;115;210mBlame#9186[0m
+[2026-06-20 11:59:07] [LOAD] Synchronizing slash commands
+[2026-06-20 11:59:07] [OK  ] Command synchronization complete (59 commands)
+[2026-06-20 11:59:07] [INFO] Connected to 45 guilds
+[2026-06-20 12:04:11] [LOAD] Command modules
+[2026-06-20 12:04:32] [OK  ] Command modules loaded (27 commands)
+[2026-06-20 12:04:32] [WARN] Failed to load 1 command files
+[2026-06-20 12:04:32] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-20 12:04:32] [LOAD] Prefix command modules
+[2026-06-20 12:04:34] [OK  ] Prefix command modules loaded (181 commands)
+[2026-06-20 12:04:34] [WARN] Failed to load 1 prefix command files
+[2026-06-20 12:04:34] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-20 12:04:34] [LOAD] Hybrid command modules
+[2026-06-20 12:04:35] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-20 12:04:35] [LOAD] Event handlers
+[2026-06-20 12:04:35] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-20 12:04:35] [LOAD] Database connection
+[2026-06-20 12:04:35] [LOAD] Discord authentication
+[2026-06-20 12:04:35] [ERR ] Database initialization failed: Connection terminated due to connection timeout
+[2026-06-20 12:04:35] [ERR ] Startup failed: Connection terminated due to connection timeout
+[2026-06-20 12:05:01] [LOAD] Command modules
+[2026-06-20 12:05:02] [OK  ] Command modules loaded (27 commands)
+[2026-06-20 12:05:02] [WARN] Failed to load 1 command files
+[2026-06-20 12:05:02] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-20 12:05:02] [LOAD] Prefix command modules
+[2026-06-20 12:05:03] [OK  ] Prefix command modules loaded (181 commands)
+[2026-06-20 12:05:03] [WARN] Failed to load 1 prefix command files
+[2026-06-20 12:05:03] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-20 12:05:03] [LOAD] Hybrid command modules
+[2026-06-20 12:05:03] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-20 12:05:03] [LOAD] Event handlers
+[2026-06-20 12:05:03] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-20 12:05:03] [LOAD] Database connection
+[2026-06-20 12:05:03] [LOAD] Discord authentication
+[2026-06-20 12:55:01] [LOAD] Command modules
+[2026-06-20 12:55:02] [OK  ] Command modules loaded (27 commands)
+[2026-06-20 12:55:02] [WARN] Failed to load 1 command files
+[2026-06-20 12:55:02] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-20 12:55:02] [LOAD] Prefix command modules
+[2026-06-20 12:55:02] [OK  ] Prefix command modules loaded (181 commands)
+[2026-06-20 12:55:02] [WARN] Failed to load 1 prefix command files
+[2026-06-20 12:55:02] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-20 12:55:02] [LOAD] Hybrid command modules
+[2026-06-20 12:55:02] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-20 12:55:02] [LOAD] Event handlers
+[2026-06-20 12:55:02] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-20 12:55:02] [LOAD] Database connection
+[2026-06-20 12:55:04] [OK  ] Database initialized and all tables synced
+[2026-06-20 12:55:45] [INFO] emojis.json already up to date — no changes needed
+[2026-06-20 12:55:45] [OK  ] tempassets/ removed successfully
+[2026-06-20 12:55:45] [LOAD] Discord authentication
+[2026-06-20 12:55:49] [OK  ] Authentication successful → [38;2;170;115;210mBlame#9186[0m
+[2026-06-20 12:55:49] [LOAD] Synchronizing slash commands
+[2026-06-20 12:55:49] [INFO] Slash commands unchanged — skipping registration
+[2026-06-20 12:55:49] [OK  ] Command synchronization complete (59 commands)
+[2026-06-20 12:55:49] [INFO] Connected to 45 guilds
+[2026-06-20 13:00:20] [LOAD] Command modules
+[2026-06-20 13:00:22] [OK  ] Command modules loaded (27 commands)
+[2026-06-20 13:00:22] [WARN] Failed to load 1 command files
+[2026-06-20 13:00:22] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-20 13:00:22] [LOAD] Prefix command modules
+[2026-06-20 13:00:22] [OK  ] Prefix command modules loaded (181 commands)
+[2026-06-20 13:00:22] [WARN] Failed to load 1 prefix command files
+[2026-06-20 13:00:22] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-20 13:00:22] [LOAD] Hybrid command modules
+[2026-06-20 13:00:22] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-20 13:00:22] [LOAD] Event handlers
+[2026-06-20 13:00:22] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-20 13:00:22] [LOAD] Database connection
+[2026-06-20 13:00:22] [LOAD] Discord authentication
+[2026-06-20 13:00:22] [OK  ] Database initialized and all tables synced
+[2026-06-20 13:00:26] [OK  ] Authentication successful → [38;2;170;115;210mBlame#9186[0m
+[2026-06-20 13:00:26] [LOAD] Synchronizing slash commands
+[2026-06-20 13:00:26] [INFO] Slash commands unchanged — skipping registration
+[2026-06-20 13:00:26] [OK  ] Command synchronization complete (59 commands)
+[2026-06-20 13:00:26] [INFO] Connected to 45 guilds
+[2026-06-30 15:43:10] [LOAD] Command modules
+[2026-06-30 15:43:11] [OK  ] Command modules loaded (27 commands)
+[2026-06-30 15:43:11] [WARN] Failed to load 1 command files
+[2026-06-30 15:43:11] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-30 15:43:11] [LOAD] Prefix command modules
+[2026-06-30 15:43:11] [OK  ] Prefix command modules loaded (181 commands)
+[2026-06-30 15:43:11] [WARN] Failed to load 1 prefix command files
+[2026-06-30 15:43:11] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-30 15:43:11] [LOAD] Hybrid command modules
+[2026-06-30 15:43:11] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-30 15:43:11] [LOAD] Event handlers
+[2026-06-30 15:43:11] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-30 15:43:11] [LOAD] Database connection
+[2026-06-30 15:43:13] [OK  ] Database initialized and all tables synced
+[2026-06-30 15:43:13] [LOAD] Discord authentication
+[2026-06-30 15:43:13] [ERR ] Startup failed: An invalid token was provided.
+[2026-06-30 15:47:53] [LOAD] Command modules
+[2026-06-30 15:47:53] [OK  ] Command modules loaded (27 commands)
+[2026-06-30 15:47:53] [WARN] Failed to load 1 command files
+[2026-06-30 15:47:53] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-30 15:47:53] [LOAD] Prefix command modules
+[2026-06-30 15:47:53] [OK  ] Prefix command modules loaded (181 commands)
+[2026-06-30 15:47:53] [WARN] Failed to load 1 prefix command files
+[2026-06-30 15:47:53] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-30 15:47:53] [LOAD] Hybrid command modules
+[2026-06-30 15:47:53] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-30 15:47:53] [LOAD] Event handlers
+[2026-06-30 15:47:53] [ERR ] Unhandled rejection: Unexpected token '{'
+[2026-06-30 15:48:18] [LOAD] Command modules
+[2026-06-30 15:48:19] [OK  ] Command modules loaded (27 commands)
+[2026-06-30 15:48:19] [WARN] Failed to load 1 command files
+[2026-06-30 15:48:19] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-30 15:48:19] [LOAD] Prefix command modules
+[2026-06-30 15:48:19] [OK  ] Prefix command modules loaded (181 commands)
+[2026-06-30 15:48:19] [WARN] Failed to load 1 prefix command files
+[2026-06-30 15:48:19] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-30 15:48:19] [LOAD] Hybrid command modules
+[2026-06-30 15:48:20] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-30 15:48:20] [LOAD] Event handlers
+[2026-06-30 15:48:20] [ERR ] Unhandled rejection: Unexpected token '{'
+[2026-06-30 15:48:39] [LOAD] Command modules
+[2026-06-30 15:48:40] [OK  ] Command modules loaded (27 commands)
+[2026-06-30 15:48:40] [WARN] Failed to load 1 command files
+[2026-06-30 15:48:40] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-30 15:48:40] [LOAD] Prefix command modules
+[2026-06-30 15:48:41] [OK  ] Prefix command modules loaded (181 commands)
+[2026-06-30 15:48:41] [WARN] Failed to load 1 prefix command files
+[2026-06-30 15:48:41] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-30 15:48:41] [LOAD] Hybrid command modules
+[2026-06-30 15:48:41] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-30 15:48:41] [LOAD] Event handlers
+[2026-06-30 15:48:41] [ERR ] Unhandled rejection: Unexpected token '{'
+[2026-06-30 15:50:30] [LOAD] Command modules
+[2026-06-30 15:50:31] [OK  ] Command modules loaded (28 commands)
+[2026-06-30 15:50:31] [LOAD] Prefix command modules
+[2026-06-30 15:50:31] [OK  ] Prefix command modules loaded (182 commands)
+[2026-06-30 15:50:31] [LOAD] Hybrid command modules
+[2026-06-30 15:50:31] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-30 15:50:31] [LOAD] Event handlers
+[2026-06-30 15:50:31] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-30 15:50:31] [LOAD] Database connection
+[2026-06-30 15:50:32] [OK  ] Database initialized and all tables synced
+[2026-06-30 15:50:32] [LOAD] Discord authentication
+[2026-06-30 15:50:32] [ERR ] Startup failed: An invalid token was provided.
+[2026-06-30 15:52:44] [LOAD] Command modules
+[2026-06-30 15:52:45] [OK  ] Command modules loaded (28 commands)
+[2026-06-30 15:52:45] [LOAD] Prefix command modules
+[2026-06-30 15:52:45] [OK  ] Prefix command modules loaded (182 commands)
+[2026-06-30 15:52:45] [LOAD] Hybrid command modules
+[2026-06-30 15:52:45] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-30 15:52:45] [LOAD] Event handlers
+[2026-06-30 15:52:45] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-30 15:52:45] [LOAD] Database connection
+[2026-06-30 15:52:45] [OK  ] Database initialized and all tables synced
+[2026-06-30 15:52:45] [LOAD] Discord authentication
+[2026-06-30 15:52:47] [OK  ] Authentication successful → [38;2;170;115;210mBdfd#5731[0m
+[2026-06-30 15:52:47] [LOAD] Synchronizing slash commands
+[2026-06-30 15:52:48] [OK  ] Command synchronization complete (60 commands)
+[2026-06-30 15:52:48] [INFO] Connected to 4 guilds
+[2026-06-30 15:59:30] [LOAD] Command modules
+[2026-06-30 15:59:31] [OK  ] Command modules loaded (28 commands)
+[2026-06-30 15:59:31] [LOAD] Prefix command modules
+[2026-06-30 15:59:31] [OK  ] Prefix command modules loaded (182 commands)
+[2026-06-30 15:59:31] [LOAD] Hybrid command modules
+[2026-06-30 15:59:31] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-30 15:59:31] [LOAD] Event handlers
+[2026-06-30 15:59:31] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-30 15:59:31] [LOAD] Database connection
+[2026-06-30 15:59:32] [OK  ] Database initialized and all tables synced
+[2026-06-30 15:59:32] [LOAD] Discord authentication
+[2026-06-30 15:59:34] [OK  ] Authentication successful → [38;2;170;115;210mBdfd#5731[0m
+[2026-06-30 15:59:34] [LOAD] Synchronizing slash commands
+[2026-06-30 15:59:34] [INFO] Slash commands unchanged — skipping registration
+[2026-06-30 15:59:34] [OK  ] Command synchronization complete (60 commands)
+[2026-06-30 15:59:34] [INFO] Connected to 4 guilds
+[2026-06-30 16:02:37] [LOAD] Command modules
+[2026-06-30 16:02:37] [OK  ] Command modules loaded (28 commands)
+[2026-06-30 16:02:37] [LOAD] Prefix command modules
+[2026-06-30 16:02:38] [OK  ] Prefix command modules loaded (182 commands)
+[2026-06-30 16:02:38] [LOAD] Hybrid command modules
+[2026-06-30 16:02:38] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-30 16:02:38] [LOAD] Event handlers
+[2026-06-30 16:02:38] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-30 16:02:38] [LOAD] Database connection
+[2026-06-30 16:02:38] [OK  ] Database initialized and all tables synced
+[2026-06-30 16:02:38] [LOAD] Discord authentication
+[2026-06-30 16:02:40] [OK  ] Authentication successful → [38;2;170;115;210mBdfd#5731[0m
+[2026-06-30 16:02:40] [LOAD] Synchronizing slash commands
+[2026-06-30 16:02:40] [OK  ] Command synchronization complete (60 commands)
+[2026-06-30 16:02:40] [INFO] Connected to 4 guilds
+[2026-06-30 16:10:26] [LOAD] Command modules
+[2026-06-30 16:10:28] [OK  ] Command modules loaded (28 commands)
+[2026-06-30 16:10:28] [LOAD] Prefix command modules
+[2026-06-30 16:10:28] [OK  ] Prefix command modules loaded (182 commands)
+[2026-06-30 16:10:28] [LOAD] Hybrid command modules
+[2026-06-30 16:10:28] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-30 16:10:28] [LOAD] Event handlers
+[2026-06-30 16:10:28] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-30 16:10:28] [LOAD] Database connection
+[2026-06-30 16:10:29] [OK  ] Database initialized and all tables synced
+[2026-06-30 16:10:29] [LOAD] Discord authentication
+[2026-06-30 16:10:30] [OK  ] Authentication successful → [38;2;170;115;210mBdfd#5731[0m
+[2026-06-30 16:10:30] [LOAD] Synchronizing slash commands
+[2026-06-30 16:10:30] [INFO] Slash commands unchanged — skipping registration
+[2026-06-30 16:10:30] [OK  ] Command synchronization complete (60 commands)
+[2026-06-30 16:10:30] [INFO] Connected to 4 guilds
+[2026-06-30 16:21:47] [LOAD] Command modules
+[2026-06-30 16:21:48] [OK  ] Command modules loaded (28 commands)
+[2026-06-30 16:21:48] [LOAD] Prefix command modules
+[2026-06-30 16:21:48] [OK  ] Prefix command modules loaded (182 commands)
+[2026-06-30 16:21:48] [LOAD] Hybrid command modules
+[2026-06-30 16:21:48] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-30 16:21:48] [LOAD] Event handlers
+[2026-06-30 16:21:48] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-30 16:21:48] [LOAD] Database connection
+[2026-06-30 16:21:48] [OK  ] Database initialized and all tables synced
+[2026-06-30 16:21:48] [LOAD] Discord authentication
+[2026-06-30 16:21:49] [ERR ] Startup failed: Used disallowed intents
+[2026-06-30 16:24:59] [LOAD] Command modules
+[2026-06-30 16:24:59] [OK  ] Command modules loaded (28 commands)
+[2026-06-30 16:24:59] [LOAD] Prefix command modules
+[2026-06-30 16:25:00] [OK  ] Prefix command modules loaded (182 commands)
+[2026-06-30 16:25:00] [LOAD] Hybrid command modules
+[2026-06-30 16:25:00] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-30 16:25:00] [LOAD] Event handlers
+[2026-06-30 16:25:00] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-30 16:25:00] [LOAD] Database connection
+[2026-06-30 16:25:00] [OK  ] Database initialized and all tables synced
+[2026-06-30 16:25:00] [LOAD] Discord authentication
+[2026-06-30 16:25:02] [OK  ] Authentication successful → [38;2;170;115;210mMelonX#4594[0m
+[2026-06-30 16:25:02] [LOAD] Synchronizing slash commands
+[2026-06-30 16:25:02] [INFO] Slash commands unchanged — skipping registration
+[2026-06-30 16:25:02] [OK  ] Command synchronization complete (60 commands)
+[2026-06-30 16:25:02] [INFO] Connected to 1 guilds
+[2026-06-30 16:32:06] [LOAD] Command modules
+[2026-06-30 16:32:07] [OK  ] Command modules loaded (28 commands)
+[2026-06-30 16:32:07] [LOAD] Prefix command modules
+[2026-06-30 16:32:07] [OK  ] Prefix command modules loaded (182 commands)
+[2026-06-30 16:32:07] [LOAD] Hybrid command modules
+[2026-06-30 16:32:07] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-30 16:32:07] [LOAD] Event handlers
+[2026-06-30 16:32:07] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-30 16:32:07] [LOAD] Database connection
+[2026-06-30 16:32:07] [OK  ] Database initialized and all tables synced
+[2026-06-30 16:32:07] [LOAD] Discord authentication
+[2026-06-30 16:32:09] [OK  ] Authentication successful → [38;2;170;115;210mMelonX#4594[0m
+[2026-06-30 16:32:09] [LOAD] Synchronizing slash commands
+[2026-06-30 16:32:09] [INFO] Slash commands unchanged — skipping registration
+[2026-06-30 16:32:09] [OK  ] Command synchronization complete (60 commands)
+[2026-06-30 16:32:09] [INFO] Connected to 1 guilds
+[2026-06-30 16:35:36] [LOAD] Command modules
+[2026-06-30 16:35:36] [OK  ] Command modules loaded (28 commands)
+[2026-06-30 16:35:36] [LOAD] Prefix command modules
+[2026-06-30 16:35:36] [OK  ] Prefix command modules loaded (182 commands)
+[2026-06-30 16:35:36] [LOAD] Hybrid command modules
+[2026-06-30 16:35:36] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-30 16:35:36] [LOAD] Event handlers
+[2026-06-30 16:35:36] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-30 16:35:36] [LOAD] Database connection
+[2026-06-30 16:35:37] [OK  ] Database initialized and all tables synced
+[2026-06-30 16:35:37] [LOAD] Discord authentication
+[2026-06-30 16:35:38] [OK  ] Authentication successful → [38;2;170;115;210mMelonX#4594[0m
+[2026-06-30 16:35:38] [LOAD] Synchronizing slash commands
+[2026-06-30 16:35:40] [OK  ] Command synchronization complete (60 commands)
+[2026-06-30 16:35:40] [INFO] Connected to 2 guilds
+[2026-06-30 16:37:02] [LOAD] Command modules
+[2026-06-30 16:37:02] [OK  ] Command modules loaded (28 commands)
+[2026-06-30 16:37:02] [LOAD] Prefix command modules
+[2026-06-30 16:37:02] [OK  ] Prefix command modules loaded (182 commands)
+[2026-06-30 16:37:02] [LOAD] Hybrid command modules
+[2026-06-30 16:37:02] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-30 16:37:02] [LOAD] Event handlers
+[2026-06-30 16:37:02] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-30 16:37:02] [LOAD] Database connection
+[2026-06-30 16:37:03] [OK  ] Database initialized and all tables synced
+[2026-06-30 16:37:03] [LOAD] Discord authentication
+[2026-06-30 16:37:04] [OK  ] Authentication successful → [38;2;170;115;210mMelonX#4594[0m
+[2026-06-30 16:37:04] [LOAD] Synchronizing slash commands
+[2026-06-30 16:37:04] [INFO] Slash commands unchanged — skipping registration
+[2026-06-30 16:37:04] [OK  ] Command synchronization complete (60 commands)
+[2026-06-30 16:37:04] [INFO] Connected to 2 guilds
+[2026-06-30 17:13:26] [LOAD] Command modules
+[2026-06-30 17:13:28] [OK  ] Command modules loaded (27 commands)
+[2026-06-30 17:13:28] [WARN] Failed to load 1 command files
+[2026-06-30 17:13:28] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-30 17:13:28] [LOAD] Prefix command modules
+[2026-06-30 17:13:28] [OK  ] Prefix command modules loaded (181 commands)
+[2026-06-30 17:13:28] [WARN] Failed to load 1 prefix command files
+[2026-06-30 17:13:28] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-30 17:13:28] [LOAD] Hybrid command modules
+[2026-06-30 17:13:28] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-30 17:13:28] [LOAD] Event handlers
+[2026-06-30 17:13:28] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-30 17:13:28] [LOAD] Database connection
+[2026-06-30 17:13:29] [OK  ] Database initialized and all tables synced
+[2026-06-30 17:13:29] [LOAD] Discord authentication
+[2026-06-30 17:13:30] [OK  ] Authentication successful → [38;2;170;115;210mMelonX#4594[0m
+[2026-06-30 17:13:30] [LOAD] Synchronizing slash commands
+[2026-06-30 17:13:31] [OK  ] Command synchronization complete (59 commands)
+[2026-06-30 17:13:31] [INFO] Connected to 2 guilds
+[2026-06-30 17:16:28] [LOAD] Command modules
+[2026-06-30 17:16:28] [OK  ] Command modules loaded (27 commands)
+[2026-06-30 17:16:28] [WARN] Failed to load 1 command files
+[2026-06-30 17:16:28] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-30 17:16:28] [LOAD] Prefix command modules
+[2026-06-30 17:16:28] [OK  ] Prefix command modules loaded (181 commands)
+[2026-06-30 17:16:28] [WARN] Failed to load 1 prefix command files
+[2026-06-30 17:16:28] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-06-30 17:16:28] [LOAD] Hybrid command modules
+[2026-06-30 17:16:28] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-06-30 17:16:28] [LOAD] Event handlers
+[2026-06-30 17:16:28] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-06-30 17:16:28] [LOAD] Database connection
+[2026-06-30 17:16:28] [OK  ] Database initialized and all tables synced
+[2026-06-30 17:16:28] [LOAD] Discord authentication
+[2026-06-30 17:16:29] [OK  ] Authentication successful → [38;2;170;115;210mMelonX#4594[0m
+[2026-06-30 17:16:29] [LOAD] Synchronizing slash commands
+[2026-06-30 17:16:29] [INFO] Slash commands unchanged — skipping registration
+[2026-06-30 17:16:29] [OK  ] Command synchronization complete (59 commands)
+[2026-06-30 17:16:29] [INFO] Connected to 2 guilds
+[2026-07-01 14:38:37] [LOAD] Command modules
+[2026-07-01 14:38:38] [OK  ] Command modules loaded (27 commands)
+[2026-07-01 14:38:38] [WARN] Failed to load 1 command files
+[2026-07-01 14:38:38] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-07-01 14:38:38] [LOAD] Prefix command modules
+[2026-07-01 14:38:38] [OK  ] Prefix command modules loaded (181 commands)
+[2026-07-01 14:38:38] [WARN] Failed to load 1 prefix command files
+[2026-07-01 14:38:38] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-07-01 14:38:38] [LOAD] Hybrid command modules
+[2026-07-01 14:38:38] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-07-01 14:38:38] [LOAD] Event handlers
+[2026-07-01 14:38:38] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-07-01 14:38:38] [LOAD] Database connection
+[2026-07-01 14:38:40] [OK  ] Database initialized and all tables synced
+[2026-07-01 14:38:40] [LOAD] Discord authentication
+[2026-07-01 14:38:42] [OK  ] Authentication successful → [38;2;170;115;210mMelonX#4594[0m
+[2026-07-01 14:38:42] [LOAD] Synchronizing slash commands
+[2026-07-01 14:38:42] [OK  ] Command synchronization complete (59 commands)
+[2026-07-01 14:38:42] [INFO] Connected to 3 guilds
+[2026-07-01 14:44:50] [LOAD] Command modules
+[2026-07-01 14:44:50] [OK  ] Command modules loaded (27 commands)
+[2026-07-01 14:44:50] [WARN] Failed to load 1 command files
+[2026-07-01 14:44:50] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-07-01 14:44:50] [LOAD] Prefix command modules
+[2026-07-01 14:44:50] [OK  ] Prefix command modules loaded (181 commands)
+[2026-07-01 14:44:50] [WARN] Failed to load 1 prefix command files
+[2026-07-01 14:44:50] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-07-01 14:44:50] [LOAD] Hybrid command modules
+[2026-07-01 14:44:50] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-07-01 14:44:50] [LOAD] Event handlers
+[2026-07-01 14:44:50] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-07-01 14:44:50] [LOAD] Database connection
+[2026-07-01 14:44:51] [OK  ] Database initialized and all tables synced
+[2026-07-01 14:44:51] [LOAD] Discord authentication
+[2026-07-01 14:44:52] [OK  ] Authentication successful → [38;2;170;115;210mMelonX#4594[0m
+[2026-07-01 14:44:52] [LOAD] Synchronizing slash commands
+[2026-07-01 14:44:52] [INFO] Slash commands unchanged — skipping registration
+[2026-07-01 14:44:52] [OK  ] Command synchronization complete (59 commands)
+[2026-07-01 14:44:52] [INFO] Connected to 3 guilds
+[2026-07-01 14:50:04] [LOAD] Command modules
+[2026-07-01 14:50:06] [OK  ] Command modules loaded (27 commands)
+[2026-07-01 14:50:06] [WARN] Failed to load 1 command files
+[2026-07-01 14:50:06] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-07-01 14:50:06] [LOAD] Prefix command modules
+[2026-07-01 14:50:06] [OK  ] Prefix command modules loaded (181 commands)
+[2026-07-01 14:50:06] [WARN] Failed to load 1 prefix command files
+[2026-07-01 14:50:06] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-07-01 14:50:06] [LOAD] Hybrid command modules
+[2026-07-01 14:50:06] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-07-01 14:50:06] [LOAD] Event handlers
+[2026-07-01 14:50:06] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-07-01 14:50:06] [LOAD] Database connection
+[2026-07-01 14:50:06] [OK  ] Database initialized and all tables synced
+[2026-07-01 14:50:06] [LOAD] Discord authentication
+[2026-07-01 14:50:08] [OK  ] Authentication successful → [38;2;170;115;210mMelonX#4594[0m
+[2026-07-01 14:50:08] [LOAD] Synchronizing slash commands
+[2026-07-01 14:50:08] [INFO] Slash commands unchanged — skipping registration
+[2026-07-01 14:50:08] [OK  ] Command synchronization complete (59 commands)
+[2026-07-01 14:50:08] [INFO] Connected to 3 guilds
+[2026-07-01 14:56:55] [LOAD] Command modules
+[2026-07-01 14:56:56] [OK  ] Command modules loaded (27 commands)
+[2026-07-01 14:56:56] [WARN] Failed to load 1 command files
+[2026-07-01 14:56:56] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-07-01 14:56:56] [LOAD] Prefix command modules
+[2026-07-01 14:56:56] [OK  ] Prefix command modules loaded (181 commands)
+[2026-07-01 14:56:56] [WARN] Failed to load 1 prefix command files
+[2026-07-01 14:56:56] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-07-01 14:56:56] [LOAD] Hybrid command modules
+[2026-07-01 14:56:56] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-07-01 14:56:56] [LOAD] Event handlers
+[2026-07-01 14:56:56] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-07-01 14:56:56] [LOAD] Database connection
+[2026-07-01 14:56:56] [OK  ] Database initialized and all tables synced
+[2026-07-01 14:56:56] [LOAD] Discord authentication
+[2026-07-01 14:56:57] [OK  ] Authentication successful → [38;2;170;115;210mMelonX#4594[0m
+[2026-07-01 14:56:57] [LOAD] Synchronizing slash commands
+[2026-07-01 14:56:57] [INFO] Slash commands unchanged — skipping registration
+[2026-07-01 14:56:57] [OK  ] Command synchronization complete (59 commands)
+[2026-07-01 14:56:57] [INFO] Connected to 3 guilds
+[2026-07-01 15:05:39] [LOAD] Command modules
+[2026-07-01 15:05:40] [OK  ] Command modules loaded (27 commands)
+[2026-07-01 15:05:40] [WARN] Failed to load 1 command files
+[2026-07-01 15:05:40] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-07-01 15:05:40] [LOAD] Prefix command modules
+[2026-07-01 15:05:40] [OK  ] Prefix command modules loaded (181 commands)
+[2026-07-01 15:05:40] [WARN] Failed to load 1 prefix command files
+[2026-07-01 15:05:40] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-07-01 15:05:40] [LOAD] Hybrid command modules
+[2026-07-01 15:05:40] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-07-01 15:05:40] [LOAD] Event handlers
+[2026-07-01 15:05:40] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-07-01 15:05:40] [LOAD] Database connection
+[2026-07-01 15:05:40] [OK  ] Database initialized and all tables synced
+[2026-07-01 15:05:40] [LOAD] Discord authentication
+[2026-07-01 15:05:42] [OK  ] Authentication successful → [38;2;170;115;210mMelonX#4594[0m
+[2026-07-01 15:05:42] [LOAD] Synchronizing slash commands
+[2026-07-01 15:05:42] [INFO] Slash commands unchanged — skipping registration
+[2026-07-01 15:05:42] [OK  ] Command synchronization complete (59 commands)
+[2026-07-01 15:05:42] [INFO] Connected to 3 guilds
+[2026-07-01 15:07:57] [LOAD] Command modules
+[2026-07-01 15:07:57] [OK  ] Command modules loaded (27 commands)
+[2026-07-01 15:07:57] [WARN] Failed to load 1 command files
+[2026-07-01 15:07:57] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-07-01 15:07:57] [LOAD] Prefix command modules
+[2026-07-01 15:07:57] [OK  ] Prefix command modules loaded (181 commands)
+[2026-07-01 15:07:57] [WARN] Failed to load 1 prefix command files
+[2026-07-01 15:07:57] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-07-01 15:07:57] [LOAD] Hybrid command modules
+[2026-07-01 15:07:57] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-07-01 15:07:57] [LOAD] Event handlers
+[2026-07-01 15:07:57] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-07-01 15:07:57] [LOAD] Database connection
+[2026-07-01 15:07:58] [OK  ] Database initialized and all tables synced
+[2026-07-01 15:07:58] [LOAD] Discord authentication
+[2026-07-01 15:08:00] [OK  ] Authentication successful → [38;2;170;115;210mMelonX#4594[0m
+[2026-07-01 15:08:00] [LOAD] Synchronizing slash commands
+[2026-07-01 15:08:00] [INFO] Slash commands unchanged — skipping registration
+[2026-07-01 15:08:00] [OK  ] Command synchronization complete (59 commands)
+[2026-07-01 15:08:00] [INFO] Connected to 3 guilds
+[2026-07-01 15:40:02] [LOAD] Command modules
+[2026-07-01 15:40:03] [OK  ] Command modules loaded (27 commands)
+[2026-07-01 15:40:03] [WARN] Failed to load 1 command files
+[2026-07-01 15:40:03] [ERR ] fun/fun.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-07-01 15:40:03] [LOAD] Prefix command modules
+[2026-07-01 15:40:03] [OK  ] Prefix command modules loaded (181 commands)
+[2026-07-01 15:40:03] [WARN] Failed to load 1 prefix command files
+[2026-07-01 15:40:03] [ERR ] fun/ship.js: libuuid.so.1: cannot open shared object file: No such file or directory
+[2026-07-01 15:40:03] [LOAD] Hybrid command modules
+[2026-07-01 15:40:04] [OK  ] Hybrid command modules loaded (32 commands)
+[2026-07-01 15:40:04] [LOAD] Event handlers
+[2026-07-01 15:40:04] [OK  ] Event handlers ready — 13 events · logging, antinuke, automod, welcome, farewell, snipe
+[2026-07-01 15:40:04] [LOAD] Database connection
+[2026-07-01 15:40:04] [OK  ] Database initialized and all tables synced
+[2026-07-01 15:40:04] [LOAD] Discord authentication
+[2026-07-01 15:40:06] [OK  ] Authentication successful → [38;2;170;115;210mMelonX#4594[0m
+[2026-07-01 15:40:06] [LOAD] Synchronizing slash commands
+[2026-07-01 15:40:06] [INFO] Slash commands unchanged — skipping registration
+[2026-07-01 15:40:06] [OK  ] Command synchronization complete (59 commands)
+[2026-07-01 15:40:06] [INFO] Connected to 3 guilds
